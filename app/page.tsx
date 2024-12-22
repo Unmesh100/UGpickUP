@@ -12,7 +12,7 @@ export default function Home() {
 
 
       <footer className=' justify-center items-center flex flex-col'>
-        <p>© {new Date().getFullYear()}Unmesh Pickup Line </p>
+        <p>© {new Date().getFullYear()} Unmesh Pickup Line </p>
         <p>Made by <a href='https://x.com/Unmesh100' target='_blank' className=' border-b border-b-purple-200'>Unmesh</a></p>
         <a href="https://github.com/Unmesh100/UGpickUP" target='_blank' className='flex items-center gap-2 mt-3'><Github/>Github</a>
       </footer>
